@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="专科生实习指南">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#11275c"/>
+      <stop offset="100%" stop-color="#0e7490"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0v48" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#grid)"/>
+
+  <!-- 右侧装饰：上升数据折线 -->
+  <g fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.9">
+    <polyline points="880,225 960,175 1030,190 1100,120 1160,95"/>
+  </g>
+  <circle cx="1160" cy="95" r="7" fill="#2dd4bf"/>
+  <g fill="none" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="2">
+    <path d="M820,120 h120"/>
+    <path d="M820,150 h90"/>
+    <path d="M820,180 h60"/>
+  </g>
+
+  <!-- 左下角小圆点装饰 -->
+  <circle cx="60" cy="235" r="4" fill="#38bdf8" opacity="0.8"/>
+  <circle cx="76" cy="235" r="4" fill="#38bdf8" opacity="0.4"/>
+  <circle cx="92" cy="235" r="4" fill="#38bdf8" opacity="0.2"/>
+
+  <!-- 标题区 -->
+  <text x="90" y="120" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="60" font-weight="bold" fill="#ffffff" letter-spacing="2">专科生实习指南</text>
+  <text x="92" y="158" font-family="'Segoe UI',Arial,sans-serif" font-size="22" fill="#7dd3fc" letter-spacing="3">DAZHUAN INTERNSHIP GUIDE</text>
+  <text x="90" y="205" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="20" fill="#cbd5e1">高职/专科生求职实战手册 · 企业榜单 · 筛选方法论 · 投递攻略 · 简历面试</text>
+</svg>

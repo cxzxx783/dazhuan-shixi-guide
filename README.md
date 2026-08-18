@@ -1,6 +1,19 @@
-# 专科生实习指南（Dazhuan Internship Guide）
+<p align="center">
+  <img src="assets/banner.svg" alt="专科生实习指南" width="100%">
+</p>
 
-> 面向高职/专科生的实习求职实战手册 —— 不灌鸡汤，只讲怎么落地。
+<div align="center">
+
+**面向高职/专科生的实习求职实战手册 —— 不灌鸡汤，只讲怎么落地。**
+
+![License](https://img.shields.io/badge/License-MIT-blue)
+![语言](https://img.shields.io/badge/语言-中文-0ea5e9)
+![内容](https://img.shields.io/badge/内容-4篇实战指南-22c55e)
+![更新](https://img.shields.io/badge/更新-2026--08-f59e0b)
+
+</div>
+
+> ⚠️ **纯 AI 手搓**：本项目由 AI 助手基于公开信息检索与整理生成，非人工调研报告。数据仅供个人求职参考，不构成任何就业承诺；使用前请自行核实最新情况。
 
 ## 为什么有这个项目
 
